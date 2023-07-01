@@ -250,7 +250,7 @@ Luego de tener los objetos a imprimir en STL (se convirtió de voxels a STL), el
 <img src="/assets/impresion1.png" style="height: 200px; width:300px"/>
 
 ##### Proceso de impresión
-<img src="/assets/impresion1.jpeg" style="height: 200px; width:300px"/>
+<img src="/assets/impresion3.png" style="height: 200px; width:300px"/>
 <img src="/assets/impresion2.jpeg" style="height: 200px; width:300px"/>
 <img src="/assets/impresion3.jpeg" style="height: 200px; width:300px"/>
 
