@@ -258,7 +258,7 @@ Luego de tener los objetos a imprimir en STL (se convirtió de voxels a STL), el
 <img src="/assets/final1.jpeg" style="height: 200px; width:200px"/>
 <img src="/assets/final2.jpeg" style="height: 200px; width:200px"/>
 
-[Video de exposición](link)
+[Video de exposición](https://youtu.be/DvKzn09RvKA)
 #### 10. Bibliografía <a name="data8"></a>
 * Ken Douglas (2022) The Main 3D Printing File Formats of 2022.  Consultado de https://all3dp.com/2/3d-file-format-3d-model-types/ [Recuperado el 10 de mayo de 2023]
 * Sohail, Shairoz. (2022) “Generating 3D Models with Deep Learning (Part 1)”. Medium. Consultado de https://shairozsohail.medium.com/generating-3d-models-with-deep-learning-part-1-917cc4757143  [Recuperado el 10 de mayo de 2023]
