@@ -3,7 +3,7 @@
 <img src="/assets/logo-upc.png", align="center" style="height: 150px; width: 400px;>
 </div>
 
-<div style="float: right; width: 50%;">
+<div style="float: center; width: 50%;">
 <h5 style="margin: 0; padding-top: 22px; text-align:center;">Trabajo Final </h5>
 <h5 style="margin: 0; padding-top: 22px; text-align:center;">Machine Learning </h5>
 <div>
