@@ -247,10 +247,10 @@ mesh_data.save('resultado_agujero.stl')
 
 Luego de tener los objetos a imprimir en STL (se convirtió de voxels a STL), el primer paso necesario para la impresión, fue la creación de soportes para una correcta impresión.
 
-<img src="/assets/impresion1.png" style="height: 200px; width:300px"/>
+<img src="/assets/impresion3.png" style="height: 200px; width:300px"/>
 
 ##### Proceso de impresión
-<img src="/assets/impresion3.png" style="height: 200px; width:300px"/>
+<img src="/assets/impresion1.jpeg" style="height: 200px; width:300px"/>
 <img src="/assets/impresion2.jpeg" style="height: 200px; width:300px"/>
 <img src="/assets/impresion3.jpeg" style="height: 200px; width:300px"/>
 
